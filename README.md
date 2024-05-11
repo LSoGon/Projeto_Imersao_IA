@@ -1,6 +1,6 @@
-## Projeto_Imersao_IA
+## Projeto Imersao IA
 
-#Bem-vindo ao Pesquisador Inteligente!
+# Bem-vindo ao Pesquisador Inteligente!
 
 O Pesquisador Inteligente é uma ferramenta poderosa que utiliza a tecnologia avançada do Google Gemini para tornar a pesquisa e a análise de textos uma tarefa simples e eficiente. Com o Pesquisador Inteligente, você pode extrair resumos, palavras-chave, descobertas, hipóteses e até mesmo criar mapas mentais das informações contidas em seus textos de maneira rápida e automatizada.
 
